@@ -1,0 +1,51 @@
+.post{
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    margin: 30px auto;
+    width: 640px;
+}
+
+
+
+.posts_header{
+    overflow: auto;
+    padding: 20px 10px;
+}
+
+.posts_header_div{
+    float: left;
+}
+
+.posts_name_div{
+    float: left;
+    font-weight: bold;
+}
+
+.time_pasted{
+    float: right;
+}
+
+.comments_user_name{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.profile_picture_img{
+    float: left;
+    width: 30px;
+    height: 30px;
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 10px;
+}
+
+.topline .explore_profile{
+    float: right;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+.topline .explore_profile .explore_profile_link{
+    color:black;
+    text-decoration: none;
+}
